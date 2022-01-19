@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajasekharGottupalli
+- 👋 Hi, I’m RajasekharGottupalli
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PUG.Js, Svelte, Vue.Js, Javascript etc...
 - 💞️ I’m looking to collaborate on 
